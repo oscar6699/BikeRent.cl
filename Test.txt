@@ -4,3 +4,11 @@ Pasos para iniciar repositorio local
 2. git add . (Agregar archivos base o iniciales para el proyecto)
 3. git commit -m "Mensaje del cambio"
 4. git push origin master (master, podria la rama de desarrollo antes de produccion)
+5. git branch (Muestra ramas del repositorio de versionamiento)
+6. git checkout -b nombre_nueva_rama
+
+-- Estandar Ramas desarrollo
+- Master (produccion)
+- Developer (desarrollo)
+- Feacture (Nuevos modulos / Caracteristicas)
+- QA (QA para desarrollo)
